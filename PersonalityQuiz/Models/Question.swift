@@ -2,7 +2,7 @@
 //  Question.swift
 //  PersonalityQuiz
 //
-//  Created by Alexey Efimov on 26.08.2021.
+//  Created by Vladyslav Haidaienko on 28.01.2022.
 //
 
 struct Question {
